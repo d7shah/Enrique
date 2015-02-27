@@ -1,0 +1,2 @@
+include ':app', ':ldrawer'
+project(':ldrawer').projectDir = new File('libraries/ldrawer')
